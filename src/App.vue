@@ -2,8 +2,7 @@
   <div id="app">
     <!--<img src="./assets/logo.png">-->
     <div class="nav">
-      <router-link to="/" tag="span">首页</router-link>
-      <router-link to="/demo" tag="span">demo</router-link>
+      <router-link to="/" tag="span">DEMO</router-link>
       <router-link to="/test" tag="span">test</router-link>
     </div>
 

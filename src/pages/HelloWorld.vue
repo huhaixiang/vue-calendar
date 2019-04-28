@@ -7,6 +7,13 @@
       <button @click="nextMouth(1)">下月</button>
     </div>
     <calendar :date="calendarDate"></calendar>
+
+    <h2>进度</h2>
+    <Ring-Progress :widthRem="4"
+                  :fontSize0Rem="0.48"
+                  :fontSize1Rem="0.32"
+                  :radius="4"
+                  :progressData = "{progressNum: 88.88, canvasId: 'top1'}" />
   </div>
 </template>
 
