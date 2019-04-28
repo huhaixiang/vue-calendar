@@ -1,6 +1,6 @@
 # vue components
 
-> VUE calendar
+> VUE calendar ---- 日历组件
 
 ## Build Setup
 
